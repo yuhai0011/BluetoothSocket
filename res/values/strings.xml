@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BluetoothSocket</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_server">创建Server</string>
+    <string name="search_start">搜索设备</string>
+    <string name="search_stop">搜索设备</string>
+    <string name="msg_for_send">发送数据</string>
+    <string name="msg_for_rev">接收数据</string>
+
+</resources>
